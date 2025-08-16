@@ -12,8 +12,8 @@
     media="(prefers-color-scheme: tokyonight)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guilherme-paredes&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jeffersoniel&show_icons=true"
     media="(prefers-color-scheme: rose), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-paredes&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoniel&show_icons=true" />
 </picture>
