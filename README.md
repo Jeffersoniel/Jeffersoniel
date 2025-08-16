@@ -13,7 +13,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jeffersoniel&show_icons=true"
-    media="(prefers-color-scheme: rose), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: red), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersoniel&show_icons=true" />
 </picture>
